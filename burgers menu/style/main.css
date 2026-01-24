@@ -203,10 +203,11 @@ item>h3{
     color: #1b2a49;
 }
 
-
+.add{
+   padding-bottom: 140px;
+}
 .dop{
     padding-bottom: 34px;
-    padding-top: 100px;
     font-family: "Nunito Sans", sans-serif;
     font-weight: 700;
     font-size: 44px;
@@ -218,10 +219,66 @@ item>h3{
 .addsome{
     display: flex;
     flex-wrap: wrap;
+
 }
 
-
+footer{
+background: #1e2f40;
+}
 .information{
-    background: #1e2f40;
+    
     padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding: 111px 0 106px 0;
+}
+
+.mainlink>p{
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    color: #dedede;
+    padding-bottom: 9px;
+}
+.mainlink>h2{
+    font-family: "Nunito Sans";
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 190%;
+    text-transform: uppercase;
+    color: #fff;
+    padding-bottom: 12px;
+}
+.maininfo>p{
+    padding-top: 12px;
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    color: #dedede;
+    pt12
+}
+.maininfo>h2{
+    font-family: "Nunito Sans";
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 190%;
+    text-transform: uppercase;
+    color: #fff;
+}
+.maininfo>h3{
+    font-family: "Open Sans";
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 160%;
+    color: #faf9f9;
+}
+.tele>p{
+    font-family: "Nunito Sans";
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 190%;
+    text-transform: uppercase;
+    color: #fbb731;
 }
