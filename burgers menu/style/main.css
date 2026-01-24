@@ -195,7 +195,7 @@ item>button>img{
     margin-right: 5px;
 }
 item>h3{
-    font-family: "Nunito Sans", sans-serif;
+    font-family: "Nunito Sans";
     font-weight: 600;
     font-size: 30px;
     line-height: 127%;
@@ -208,7 +208,7 @@ item>h3{
 }
 .dop{
     padding-bottom: 34px;
-    font-family: "Nunito Sans", sans-serif;
+    font-family: "Nunito Sans";
     font-weight: 700;
     font-size: 44px;
     line-height: 127%;
@@ -257,7 +257,7 @@ background: #1e2f40;
     font-size: 15px;
     line-height: 160%;
     color: #dedede;
-    pt12
+    
 }
 .maininfo>h2{
     font-family: "Nunito Sans";
@@ -282,3 +282,4 @@ background: #1e2f40;
     text-transform: uppercase;
     color: #fbb731;
 }
+
