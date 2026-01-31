@@ -165,6 +165,8 @@ item>p{
     line-height: 140%;
     text-align: center;
     color: #979797;
+    margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 item{
@@ -201,6 +203,7 @@ item>h3{
     line-height: 127%;
     text-align: center;
     color: #1b2a49;
+    margin-top: 20px;
 }
 
 .add{
@@ -342,3 +345,4 @@ background: #1e2f40;
     position: absolute;
     right: -169px;
 }
+
